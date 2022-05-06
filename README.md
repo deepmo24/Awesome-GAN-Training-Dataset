@@ -24,6 +24,10 @@ This repository contains a curated list of GAN training datasets.
 
     CelebFaces Attributes Dataset (CelebA) is a large-scale face attributes dataset with more than 200K celebrity images, each with 40 attribute annotations. 
 
+* [CelebAMask-HQ](http://mmlab.ie.cuhk.edu.hk/projects/CelebA/CelebAMask_HQ.html)
+
+    CelebAMask-HQ is a large-scale face image dataset that has 30,000 high-resolution face images selected from the CelebA dataset by following CelebA-HQ. The masks of CelebAMask-HQ were manually-annotated with the size of 512 x 512 and 19 classes including all facial components and accessories such as skin, nose, eyes, eyebrows, ears, mouth, lip, hair, hat, eyeglass, earring, necklace, neck, and cloth.
+
 * [MetFaces](https://github.com/NVlabs/metfaces-dataset)
 
     MetFaces is an image dataset of human faces extracted from works of art. The dataset consists of 1336 high-quality PNG images at 1024×1024 resolution.
